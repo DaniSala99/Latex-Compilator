@@ -16,5 +16,703 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Liang1994}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=4b6ac7ff7f59805ae6d962e7ba7c8e1e}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{492304609ebb0e2d2beef5848466389b}
+      \strng{fullhash}{492304609ebb0e2d2beef5848466389b}
+      \strng{bibnamehash}{492304609ebb0e2d2beef5848466389b}
+      \strng{authorbibnamehash}{492304609ebb0e2d2beef5848466389b}
+      \strng{authornamehash}{492304609ebb0e2d2beef5848466389b}
+      \strng{authorfullhash}{492304609ebb0e2d2beef5848466389b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research}
+      \field{title}{A simple hydrologically based model of land surface water and energy fluxes for general circulation models}
+      \field{volume}{99}
+      \field{year}{1994}
+      \true{nocite}
+      \field{pages}{14415\bibrangedash 14428}
+      \range{pages}{14}
+    \endentry
+    \entry{Evensen2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4e2cd6b3ecec4107675c18d94d69d54a}{%
+           family={Evensen},
+           familyi={E\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \strng{fullhash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \strng{bibnamehash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \strng{authorbibnamehash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \strng{authornamehash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \strng{authorfullhash}{4e2cd6b3ecec4107675c18d94d69d54a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ocean Dynamics}
+      \field{title}{The ensemble {K}alman filter: theoretical formulation and practical implementation}
+      \field{volume}{53}
+      \field{year}{2003}
+      \true{nocite}
+      \field{pages}{343\bibrangedash 367}
+      \range{pages}{25}
+    \endentry
+    \entry{Henriksen2003}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=c9e6b5c3b95f7a0a979a80f6c05a8a56}{%
+           family={Henriksen},
+           familyi={H\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f7c7e0a73a950b080ed4b611b773783}
+      \strng{fullhash}{0f7c7e0a73a950b080ed4b611b773783}
+      \strng{bibnamehash}{0f7c7e0a73a950b080ed4b611b773783}
+      \strng{authorbibnamehash}{0f7c7e0a73a950b080ed4b611b773783}
+      \strng{authornamehash}{0f7c7e0a73a950b080ed4b611b773783}
+      \strng{authorfullhash}{0f7c7e0a73a950b080ed4b611b773783}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{title}{Methodology for construction, calibration and validation of a national hydrological model for {D}enmark}
+      \field{volume}{280}
+      \field{year}{2003}
+      \true{nocite}
+      \field{pages}{52\bibrangedash 71}
+      \range{pages}{20}
+    \endentry
+    \entry{Moradkhani2005}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=809125d5dd0ff8adc0a001d2740be405}{%
+           family={Moradkhani},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \strng{fullhash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \strng{bibnamehash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \strng{authorbibnamehash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \strng{authornamehash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \strng{authorfullhash}{dd4b98140ce9f53ea1d6f21322d506cf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Water Resources}
+      \field{title}{Dual state-parameter estimation of hydrological models using ensemble {K}alman filter}
+      \field{volume}{28}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{135\bibrangedash 147}
+      \range{pages}{13}
+    \endentry
+    \entry{Niu2007}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=56b5ac23d857468d050b3ae0b5b59b5c}{%
+           family={Niu},
+           familyi={N\bibinitperiod},
+           given={G.-Y.},
+           giveni={G\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \strng{fullhash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \strng{bibnamehash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \strng{authorbibnamehash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \strng{authornamehash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \strng{authorfullhash}{7abe3407c7aea3f3e7bd6c28860667d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research}
+      \field{title}{Development of a simple groundwater model for use in climate models and evaluation with {G}ravity {R}ecovery and {C}limate {E}xperiment data}
+      \field{volume}{112}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Wood2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=17fd917036735345390bdbd1620edce1}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=97cd849b5a0067008fe22604db25430f}{%
+           family={Lettenmaier},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \strng{fullhash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \strng{bibnamehash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \strng{authorbibnamehash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \strng{authornamehash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \strng{authorfullhash}{6e0c37c736a3de0ec51017a16a9b63bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{title}{An ensemble approach for attribution of hydrologic prediction uncertainty}
+      \field{volume}{35}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{VicenteSerrano2010}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=20e5eca3250cd4f6730c7b00e461c208}{%
+           family={Vicente-Serrano},
+           familyi={V\bibinithyphendelim S\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \strng{fullhash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \strng{bibnamehash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \strng{authorbibnamehash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \strng{authornamehash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \strng{authorfullhash}{e6863b83c8a269b511f9cd1a7a8298ee}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Climate}
+      \field{title}{A multiscalar drought index sensitive to global warming: the standardised precipitation evapotranspiration index}
+      \field{volume}{23}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{1696\bibrangedash 1718}
+      \range{pages}{23}
+    \endentry
+    \entry{Bloomfield2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6adeba37baf0fb7a8ddd20c8be423b43}{%
+           family={Bloomfield},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=732f5c2175ad4d6567e19b97da10c94a}{%
+           family={Marchant},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{bff24745ab1903a02e56c42d5e113086}
+      \strng{fullhash}{bff24745ab1903a02e56c42d5e113086}
+      \strng{bibnamehash}{bff24745ab1903a02e56c42d5e113086}
+      \strng{authorbibnamehash}{bff24745ab1903a02e56c42d5e113086}
+      \strng{authornamehash}{bff24745ab1903a02e56c42d5e113086}
+      \strng{authorfullhash}{bff24745ab1903a02e56c42d5e113086}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{title}{Analysis of groundwater drought building on the standardised precipitation index approach}
+      \field{volume}{17}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{4769\bibrangedash 4787}
+      \range{pages}{19}
+    \endentry
+    \entry{HaoAghaKouchak2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=188f0af61122d83fa9cf12ee529ab483}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d010be0d4d7958a7b9ab1129562c3961}{%
+           family={AghaKouchak},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd5a99c3c7255349dd40b666725826dc}
+      \strng{fullhash}{cd5a99c3c7255349dd40b666725826dc}
+      \strng{bibnamehash}{cd5a99c3c7255349dd40b666725826dc}
+      \strng{authorbibnamehash}{cd5a99c3c7255349dd40b666725826dc}
+      \strng{authornamehash}{cd5a99c3c7255349dd40b666725826dc}
+      \strng{authorfullhash}{cd5a99c3c7255349dd40b666725826dc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Water Resources}
+      \field{title}{Multivariate standardized drought index: a parametric multi-index model}
+      \field{volume}{57}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{12\bibrangedash 18}
+      \range{pages}{7}
+    \endentry
+    \entry{DeLannoy2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=711a2e36f9f179c8177ae0b088c9834f}{%
+           family={De\bibnamedelima Lannoy},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={G.\bibnamedelimi J.\bibnamedelimi M.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ba45407bc4470021db4654e8b925d5e9}{%
+           family={Reichle},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \strng{fullhash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \strng{bibnamehash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \strng{authorbibnamehash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \strng{authornamehash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \strng{authorfullhash}{d6f428305a97d1415ddae7bc7ff4186e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrometeorology}
+      \field{title}{Global assimilation of multiangle and multitemporal {SMAP} brightness temperature observations}
+      \field{volume}{17}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{577\bibrangedash 605}
+      \range{pages}{29}
+    \endentry
+    \entry{Hamman2018}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=e30e02933e52a4206a05e22a33010fb2}{%
+           family={Hamman},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9638876f0dfcdeb58383babf4618c830}
+      \strng{fullhash}{9638876f0dfcdeb58383babf4618c830}
+      \strng{bibnamehash}{9638876f0dfcdeb58383babf4618c830}
+      \strng{authorbibnamehash}{9638876f0dfcdeb58383babf4618c830}
+      \strng{authornamehash}{9638876f0dfcdeb58383babf4618c830}
+      \strng{authorfullhash}{9638876f0dfcdeb58383babf4618c830}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geoscientific Model Development}
+      \field{title}{{VIC-5}: the Variable Infiltration Capacity model version 5}
+      \field{volume}{11}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{3481\bibrangedash 3496}
+      \range{pages}{16}
+    \endentry
+    \entry{Kratzert2019}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=36882b813c3d8e15715dfa679abeaf77}{%
+           family={Kratzert},
+           familyi={K\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{be0444b81a77c885ffa563343109486c}
+      \strng{fullhash}{be0444b81a77c885ffa563343109486c}
+      \strng{bibnamehash}{be0444b81a77c885ffa563343109486c}
+      \strng{authorbibnamehash}{be0444b81a77c885ffa563343109486c}
+      \strng{authornamehash}{be0444b81a77c885ffa563343109486c}
+      \strng{authorfullhash}{be0444b81a77c885ffa563343109486c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{title}{Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets}
+      \field{volume}{23}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{5089\bibrangedash 5110}
+      \range{pages}{22}
+    \endentry
+    \entry{Stisen2019}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=acefcc0fe9c40e5d29d89baf1b271b28}{%
+           family={Stisen},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b3604198b63ff74a7d0dbae454d258e}
+      \strng{fullhash}{4b3604198b63ff74a7d0dbae454d258e}
+      \strng{bibnamehash}{4b3604198b63ff74a7d0dbae454d258e}
+      \strng{authorbibnamehash}{4b3604198b63ff74a7d0dbae454d258e}
+      \strng{authornamehash}{4b3604198b63ff74a7d0dbae454d258e}
+      \strng{authorfullhash}{4b3604198b63ff74a7d0dbae454d258e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{title}{Moving beyond run-of-the-river: flow regime variability and groundwater dynamics in a large catchment}
+      \field{volume}{23}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{4913\bibrangedash 4925}
+      \range{pages}{13}
+    \endentry
+    \entry{Tsai2021}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=2eee0478cb3bfd2cf9400da8bdb83478}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={W.-P.},
+           giveni={W\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \strng{fullhash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \strng{bibnamehash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \strng{authorbibnamehash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \strng{authornamehash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \strng{authorfullhash}{80ed1ce314bfdd81cb2f883c389222a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{title}{Differentiable parameter learning for hydrology}
+      \field{volume}{57}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Zhang2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4b6ac7ff7f59805ae6d962e7ba7c8e1e}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{57551559527173b1af1ffbcf77a48d2c}
+      \strng{fullhash}{57551559527173b1af1ffbcf77a48d2c}
+      \strng{bibnamehash}{57551559527173b1af1ffbcf77a48d2c}
+      \strng{authorbibnamehash}{57551559527173b1af1ffbcf77a48d2c}
+      \strng{authornamehash}{57551559527173b1af1ffbcf77a48d2c}
+      \strng{authorfullhash}{57551559527173b1af1ffbcf77a48d2c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{title}{Two-dimensional soil moisture estimation from lateral coupling in land surface models}
+      \field{volume}{57}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Feng2022}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=2ad13e8604ed1c6edddfd08de4fd6e0c}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \strng{fullhash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \strng{bibnamehash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \strng{authorbibnamehash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \strng{authornamehash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \strng{authorfullhash}{8a1e51a8c033b6eac7484d425cbeafb4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Water Resources}
+      \field{title}{Deep learning for end-to-end hydrology modelling}
+      \field{volume}{162}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Mehrnegar2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=057d3e6a155abc350469d6c9e37cd716}{%
+           family={Mehrnegar},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \strng{fullhash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \strng{bibnamehash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \strng{authorbibnamehash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \strng{authornamehash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \strng{authorfullhash}{7671d7ecf4781de4b4b27d0d0f72923e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing of Environment}
+      \field{title}{Merging constrained {B}ayesian inference with satellite soil moisture}
+      \field{volume}{288}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Sanderson2023}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=75cac6b14a8376cf62f94a04acdc0d1f}{%
+           family={Sanderson},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{442f92d41794ab2d0774596a57153caa}
+      \strng{fullhash}{442f92d41794ab2d0774596a57153caa}
+      \strng{bibnamehash}{442f92d41794ab2d0774596a57153caa}
+      \strng{authorbibnamehash}{442f92d41794ab2d0774596a57153caa}
+      \strng{authornamehash}{442f92d41794ab2d0774596a57153caa}
+      \strng{authorfullhash}{442f92d41794ab2d0774596a57153caa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Climatic Change}
+      \field{title}{Economic impact of the 2018 {D}anish drought on agriculture and water resources}
+      \field{volume}{179}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Cammalleri2024}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=503347f4ff79ec53b523aa9c21d7c49a}{%
+           family={Cammalleri},
+           familyi={C\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \strng{fullhash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \strng{bibnamehash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \strng{authorbibnamehash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \strng{authornamehash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \strng{authorfullhash}{f70b44aa8dd928fdd3edd3507d95c844}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards and Earth System Sciences}
+      \field{title}{The {E}uropean drought observatory combined drought indicator version 4}
+      \field{volume}{24}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{Forootan2024STOTEN}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=b4fa2142d226b07d731006d4325f45bf}{%
+           family={Forootan},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \strng{fullhash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \strng{bibnamehash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \strng{authorbibnamehash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \strng{authornamehash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \strng{authorfullhash}{89ab0190add78090ead4d5a5f0ae6b69}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Systematic underestimation of drought severity in non-assimilated reanalysis}
+      \field{volume}{912}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{169476}
+      \range{pages}{1}
+    \endentry
+    \entry{Liu2024HESS}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=92faacc6874983183ce7fb86e39f31ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{fullhash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{bibnamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authorbibnamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authornamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authorfullhash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{title}{Pure {LSTM} models fail in groundwater-dependent catchments}
+      \field{volume}{28}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{2871}
+      \range{pages}{1}
+    \endentry
+    \entry{Liu2024CAMELS}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=92faacc6874983183ce7fb86e39f31ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{fullhash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{bibnamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authorbibnamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authornamehash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \strng{authorfullhash}{d61467cc0dfb2ba0963b008d4e3245b0}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth System Science Data}
+      \field{title}{{CAMELS-DK}: Hydrometeorological time series and landscape attributes for {D}anish catchments}
+      \field{volume}{17}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{1551}
+      \range{pages}{1}
+    \endentry
+    \entry{Price2025}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=39f507bdaf7f1ebff4667bbc124c8d5c}{%
+           family={Price},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \strng{fullhash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \strng{bibnamehash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \strng{authorbibnamehash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \strng{authornamehash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \strng{authorfullhash}{5fbb09e1ee58ec6cc7bee9de055728ad}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Machine Intelligence}
+      \field{title}{{GenCast}: generative seasonal forecast models}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{RetageguiSchiettekatte2025}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=9c08132773d3326696c0471816633544}{%
+           family={Retegui\bibnamedelima Schiettekatte},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{297fb29469f0a1648325643867d96d13}
+      \strng{fullhash}{297fb29469f0a1648325643867d96d13}
+      \strng{bibnamehash}{297fb29469f0a1648325643867d96d13}
+      \strng{authorbibnamehash}{297fb29469f0a1648325643867d96d13}
+      \strng{authornamehash}{297fb29469f0a1648325643867d96d13}
+      \strng{authorfullhash}{297fb29469f0a1648325643867d96d13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{title}{Sub-monthly {GRACE-FO} assimilation for terrestrial water storage estimation}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{Yang2025GMD}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=7148de383baa80de3a6b13dd22492adc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \strng{fullhash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \strng{bibnamehash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \strng{authorbibnamehash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \strng{authornamehash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \strng{authorfullhash}{cd6ac2b8cd0908ac3245d9d85bc6f00e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geoscientific Model Development}
+      \field{title}{{PyGLDA}: {P}ython infrastructure for geodesy and land data assimilation}
+      \field{volume}{18}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{6195}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

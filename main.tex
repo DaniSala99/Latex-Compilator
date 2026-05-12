@@ -27,8 +27,17 @@
 
 \documentclass[9pt,a4paper,twocolumn,twoside]{rho-class/rho}
 \usepackage[english]{babel}
-\titlespacing*{\paragraph}{0pc}{2pt}{6pt}
-\titlespacing*{\section}{0pc}{1ex plus 1pt minus 0.5pt}{4pt}
+\usepackage{enumitem}
+\raggedbottom
+\titleformat{\paragraph}[block]
+    {\small\bfseries}
+    {}
+    {0em}
+    {#1}
+\titlespacing*{\paragraph}{0pc}{3pt}{4pt}
+\titlespacing*{\section}{0pc}{5pt}{4pt}
+\setlist[itemize]{topsep=4pt,itemsep=3pt,parsep=0pt,partopsep=0pt}
+\AtEveryBibitem{\clearfield{title}\clearfield{pages}\clearfield{volume}\clearfield{number}}
 
 %% Spanish babel recomendation
 % \usepackage[spanish,es-nodecimaldot,es-noindentfirst]{babel}
@@ -44,12 +53,7 @@
 % Authors, Affiliations and dates
 %----------------------------------------------------------
 
-\author[]{Daniele Sala}
-
-%----------------------------------------------------------
-
-\affil[a]{Natural Risk Assessment Specialist, Progesi S.p.A., Milano, Italy}
-\affil[b]{Doctoral School of IT and Design, Aalborg University, Denmark}
+\author{Daniele Sala}
 
 %----------------------------------------------------------
 
@@ -73,20 +77,13 @@
 % Abstract and Keywords
 %----------------------------------------------------------
 
-\begin{abstract}
-This project plan outlines a three-year PhD research programme integrating satellite data assimilation, groundwater coupling, and hybrid physics-machine learning modelling for operational drought monitoring and forecasting at national scale in Denmark.
-\end{abstract}
-
-%----------------------------------------------------------
-
-\keywords{drought monitoring; data assimilation; VIC model; groundwater coupling; GRACE-FO; differentiable hydrology; Denmark}
 
 %----------------------------------------------------------
 
 \begin{document}
 
     \maketitle
-    \thispagestyle{fancy}
+    \thispagestyle{firststyle}
     \pagestyle{fancy}
 
 %----------------------------------------------------------
@@ -110,8 +107,7 @@ This project plan outlines a three-year PhD research programme integrating satel
 %----------------------------------------------------------
 
 \nocite{*}
-\printbibliography
-
-%----------------------------------------------------------
+{\scriptsize\setlength{\bibitemsep}{0pt}\setlength{\biblabelsep}{3pt}
+\printbibliography}
 
 \end{document}

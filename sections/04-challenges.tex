@@ -1,15 +1,15 @@
-\section{Expected Challenges and Mitigation Strategies}
+\section{Expected Challenges and Mitigations}
 
-I anticipate four principal challenges.
+Four principal challenges are anticipated, each with a concrete mitigation strategy.
 
-\paragraph{Challenge 1: Denmark-to-GRACE Scale Mismatch.}
-The native resolution of \textbf{GRACE} is around 300\nobreakspace km versus a national area of about 43,000\nobreakspace km\textsuperscript{2}. This will be mitigated through sub-monthly data assimilation, ConBay merging with higher-resolution \textbf{SMAP}, machine learning-based downscaling validated against Jupiter, and rigorous \textbf{GIA} correction.
+\begin{itemize}
 
-\paragraph{Challenge 2: Equifinality and Identifiability.}
-Joint state and parameter estimation under large observation uncertainty risks multiple parameter sets fitting equally well. This will be mitigated through \textbf{GEUS}-derived priors on aquifer parameters, localisation and inflation in \textbf{LETKF}, and dPL as a deterministic precursor before stochastic data assimilation.
+\item \textbf{Scale mismatch.} GRACE FO has a native resolution of approximately 300\nobreakspace km versus Denmark's 43,000\nobreakspace km\textsuperscript{2}. Mitigations: sub-monthly L1B assimilation (Retegui-Schiettekatte \textit{et al.}\nobreakspace 2025), \textbf{ConBay} merging with SMAP (Mehrnegar \textit{et al.}\nobreakspace 2023), ML-based downscaling against Jupiter wells, and \textbf{GIA} correction via ICE-6G\_D.
 
-\paragraph{Challenge 3: Integrating Machine Learning Without Losing Physical Consistency.}
-Adding neural components can erode interpretability and physical fidelity. This will be handled by keeping VIC DK as the physical backbone, restricting the \textbf{LSTM} to a residual post-processor role, and applying conformal prediction for honest uncertainty bounds.
+\item \textbf{Equifinality.} Multiple parameter sets can reproduce equivalent streamflow but incorrect partitioning between evapotranspiration, soil moisture, and recharge. Mitigations: GEUS-derived priors on aquifer parameters, localisation and inflation within \textbf{LETKF}, and \textbf{dPL} as deterministic precursor before stochastic assimilation.
 
-\paragraph{Challenge 4: Combined Index Collapse into Smoothed Average.}
-A multi-pillar index risks collapsing into a smoothed average, losing signal contrast. This will be mitigated by pillar-appropriate time scales (\textbf{SPI} on 1--3\nobreakspace months, \textbf{SGI} on 6--12\nobreakspace months), copula aggregation that preserves tail dependence, and hierarchical validation against Naturskaderådet impact claims, crop yield anomalies, and \textbf{EDO CDI v4}.
+\item \textbf{ML physical consistency.} Pure LSTMs may extrapolate poorly and do not guarantee mass conservation. Mitigations: keeping VIC as the physical backbone, restricting the LSTM to a residual post-processor role, and applying conformal prediction for honest uncertainty intervals.
+
+\item \textbf{Index collapse.} Naive averaging of indices with different time scales loses causal propagation and tail dependence of extremes. Mitigations: pillar-appropriate scales (SPI 1--3 months, SGI 6--12 months), copula aggregation preserving tail dependence (Hao and AghaKouchak 2013), and validation against Naturskaderådet claims, crop yield anomalies, and EDO CDI v4.
+
+\end{itemize}
