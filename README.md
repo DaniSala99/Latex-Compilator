@@ -1,47 +1,92 @@
-# LaTeX Compilator - Rho Class Template
+# DREAM PhD Project Plan
 
-Progetto per la composizione e impaginazione di documenti accademici e tecnici utilizzando il template **Rho-class** (versione 3.0.1).
+**Monitoring and Predicting Droughts on National Scale: A Satellite-Integrated, Groundwater-Coupled Hybrid Modelling Framework for Denmark**
 
-## Cos'è
+Applicant: **Daniele Sala**  
+Institution: **Aalborg University**, Department of Sustainability and Planning  
+Supervisor: **Prof. Ehsan Forootan**, Geodesy Research Group  
+Funding: **Independent Research Fund Denmark (DFF)**, Reference 2026/643  
+Deadline: **20 May 2026**
 
-Questo progetto fornisce un ambiente di lavoro per:
-- **Scrivere contenuti accademici** - articoli di ricerca, relazioni tecniche, documentazione
-- **Impaginarli professionalmente** - utilizzando il template Rho-class, basato su LaTeX
-- **Ottenere output PDF di alta qualità** - con layout moderno e professionale
+---
 
-## Struttura del progetto
+## Project Overview
+
+This three-year PhD project addresses a critical gap in Denmark's national drought early warning landscape: the lack of probabilistic, satellite-integrated outlooks coupled with groundwater state dynamics at sub-seasonal to seasonal lead times.
+
+### Core Innovation
+
+1. **Physics-based backbone**: VIC land surface model with prognostic groundwater coupling
+2. **Multi-source data assimilation**: GRACE-FO, SMAP, ESA CCI, streamflow, and piezometric observations
+3. **Hybrid ML extension**: Differentiable parameter learning + LSTM residual post-processor
+4. **Operationalized output**: Probabilistic four-pillar combined drought index (SPI/SPEI + SSMI + SSI + SGI)
+5. **Seasonal forecasting**: SEAS5/AIFS-forced predictions with skill assessment
+
+---
+
+## Document Structure
 
 ```
-├── main.tex              # File principale da compilare
-├── rho.bib               # Gestione della bibliografia
-├── figures/              # Cartella per le immagini
-├── rho-class/            # Template Rho-class
-│   ├── rho.cls           # Classe principale
-│   ├── rhoenvs.sty       # Ambienti personalizzati
-│   ├── rhobabel.sty      # Supporto multilingue
-│   └── README.md         # Documentazione del template
-└── example.py            # Esempio di file Python da incluere
+main.tex              # Main document (frontmatter + section includes)
+sections/
+  ├── 01-motivation.tex             # Problem statement & motivation
+  ├── 02-research-questions.tex     # RQ1-RQ3 (inline format)
+  ├── 03-approach.tex               # Work packages WP1-WP5
+  ├── 04-challenges.tex             # Expected challenges & mitigation
+  ├── 05-feasibility.tex            # Feasibility, fit & outputs + timeline
+  ├── 06-background.tex             # Background & added value
+  └── 07-glossary.tex               # ~40 acronyms
+figures/
+  └── timeline.tex                  # TikZ Gantt-style timeline (36 months)
+rho-class/                          # Rho-class template (CC BY 4.0)
+rho.bib                             # Bibliography (BibTeX)
+Makefile                            # Compilation automation
+CLAUDE.md                           # Workflow guidelines
 ```
 
-## Caratteristiche principali di Rho-class
+---
 
-- **Font professionali**: STIX2 per il testo, Fira Sans per i titoli, Fira Mono per il codice
-- **Ambienti personalizzati**: note, info, rhoenv per strutturare il contenuto
-- **Supporto multilingue**: Automatico per inglese e spagnolo
-- **Gestione avanzata del codice**: Con minted o listings
-- **Cross-referencing automático**: Per figure, tabelle, equazioni e codice
-- **Layout moderno**: Due colonne, twoside, con header e footer personalizzati
+## Quick Start
 
-## Come usare questo progetto
+### Compilation
 
-### Flusso di lavoro
+```bash
+make              # Full compilation (pdflatex + biber + pdflatex)
+make quick        # Fast update (pdflatex only, no bibliography)
+make view         # Open PDF in default viewer
+make clean        # Remove temporary files
+make distclean    # Remove all generated files including PDF
+make help         # Show all available commands
+```
 
-1. **Preparare il contenuto**: Raccogli il testo che vuoi impaginare
-2. **Consultare per l'impaginazione**: Discussione su come strutturare il contenuto
-3. **Implementare le modifiche**: Tu apporterai le modifiche ai file
-4. **Verificare il risultato**: Compila e rivedi il PDF generato
+### Editing
 
-### Licenza
+- **Sezioni contenuto**: Modifica file singoli in `/sections/`
+- **Timeline**: Modifica `/figures/timeline.tex` (TikZ)
+- **Frontmatter**: Modifica `main.tex` (linee 28--88)
+- **Bibligrafia**: Aggiungi citazioni a `rho.bib`
 
-Rho-class è distribuito con licenza **Creative Commons CC BY 4.0**.  
-Crediti: Guillermo Jimenez | [GitHub Repository](https://github.com/MemoJimenez/Rho-class)
+### Output
+
+- **main.pdf** (3 pages, two-column layout, A4)
+- Ready for submission to Aalborg University application portal
+
+---
+
+## Template & Attribution
+
+This document is typeset with **Rho-class** (v.3.0.1), a professional LaTeX2e template for research articles and academic documentation.
+
+- **Author**: Guillermo Jimenez  
+- **License**: Creative Commons CC BY 4.0  
+- **GitHub**: [MemoJimenez/Rho-class](https://github.com/MemoJimenez/Rho-class)
+
+---
+
+## Contact
+
+**Daniele Sala**  
+- Email: saladaniele99@outlook.com  
+- Phone: +39 331 195 78 15  
+- LinkedIn: [linkedin.com/in/sala-daniele](https://linkedin.com/in/sala-daniele)  
+- GitHub: [github.com/DaniSala99](https://github.com/DaniSala99)
