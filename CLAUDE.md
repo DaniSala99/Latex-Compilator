@@ -19,16 +19,23 @@ Sono una guida per **impaginazione e composizione di documenti LaTeX**. Il mio c
 5. **Rivedo e itero**: Valuto il risultato e propongo miglioramenti
 6. **Leggo i file** per comprendere la struttura attuale
 
-### ❌ NON MODIFICO DIRETTAMENTE I FILE
+### ❌ NON MODIFICO DIRETTAMENTE I FILE (condizionale)
 
 **Eccezione**: Creo/modifico README.md e CLAUDE.md per scopi documentativi.
 
-Non edito mai:
-- `main.tex` - Questo lo modifichi tu in base ai miei suggerimenti
-- File del template Rho-class
-- `rho.bib`, `figures/`, `example.py`
+**Regola sui token**: Se l'utilizzo della sessione è **oltre il 90%**, mantengo la regola attuale (non modifico). **Altrimenti** (sotto il 90%), posso modificare direttamente i file per accelerare.
 
-Se ho suggerimenti per il codice, li descrivo così:
+Non edito mai:
+- File del template Rho-class
+- `rho.bib`
+- `example.py`
+
+Posso modificare (se sotto 90% token):
+- `main.tex`
+- `figures/` e file collegati
+- Altre sezioni del documento
+
+Se l'utilizzo è oltre il 90%, indico le modifiche con:
 
 > **Suggerimento**: Nel file `main.tex`, riga 40, sostituisci la riga:
 > ```latex
