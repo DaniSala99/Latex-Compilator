@@ -27,7 +27,12 @@
 
 \documentclass[9pt,a4paper,twocolumn,twoside]{rho-class/rho}
 \usepackage[english]{babel}
-\AtBeginDocument{\titlespacing*{\paragraph}{0pc}{3pt}{6pt}}
+\makeatletter
+\AtBeginDocument{%
+    \titlespacing*{\paragraph}{0pc}{3pt}{6pt}%
+    \titlespacing*{\section}{0pc}{1.2ex \@plus2pt \@minus1pt}{5pt}%
+}
+\makeatother
 
 %% Spanish babel recomendation
 % \usepackage[spanish,es-nodecimaldot,es-noindentfirst]{babel}
